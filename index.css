@@ -9,11 +9,7 @@ h1{
     color: rgba(42, 41, 41, 0.741);
     text-shadow: 2px 2px rgba(0, 0, 0, 0.238);
 }
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .wrapper {
   display: grid;
   grid-template-columns:repeat(3,50px);
